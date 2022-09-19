@@ -1,0 +1,34 @@
+
+
+#COGSlogo{
+    width: 60px;
+    height:50px;
+    position:absolute;
+    left: 1280px;
+    bottom: 90%;
+   
+
+}
+
+
+
+html,
+      body,
+      #viewDiv {
+        padding: 0;
+        margin: 0;
+        height: 95%;
+        width: 95%;
+        position: absolute;
+        left:34px;
+        background-color: lightgray;
+      }
+
+
+
+
+
+.title {
+    position: relative;
+    left: 22%;
+}
